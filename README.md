@@ -6,9 +6,9 @@
 ![Streamlit](https://img.shields.io/badge/Streamlit-Deployed-red.svg)
 ![Status](https://img.shields.io/badge/Status-Active-success.svg)
 
-**Author:** Abhishek Shelke  
-**LinkedIn:** [www.linkedin.com/in/abhishek-s-b98895249](https://www.linkedin.com/in/abhishek-s-b98895249)  
-**Live Demo:** [data-engg-project.streamlit.app/](https://data-engg-project.streamlit.app/)
+**Author:** Vedant Nachankar 
+**LinkedIn:** [www.linkedin.com/in/vedant-nachankar-6396783b1](www.linkedin.com/in/vedant-nachankar-6396783b1)  
+**Live Demo:** [data-engg-project.streamlit.app/](https://github.com/vedantnachankar856-sketch/Data-ENGG-vedant)
 
 ## 📖 Table of Contents
 - [Project Overview](#-project-overview)
@@ -129,8 +129,8 @@ Follow these steps to run the project locally:
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/your-username/bigmart-sales-prediction.git
-   cd bigmart-sales-prediction
+   git clone https://github.com/vedantnachankar856-sketch/Data-ENGG-vedant.git
+   cd Data-ENGG-vedant
    ```
 
 2. **Create and activate a virtual environment:**
@@ -307,7 +307,7 @@ Top 5 features influencing sales predictions:
 ## 🚀 How to Use the Web App
 
 ### Live Demo
-Visit the deployed application: [data-engg-project.streamlit.app/](https://data-engg-project.streamlit.app/)
+Visit the deployed application: [data-engg-project.streamlit.app/](https://data-engg-vedant.streamlit.app/)
 
 ### Step-by-Step Guide
 
@@ -339,7 +339,9 @@ Visit the deployed application: [data-engg-project.streamlit.app/](https://data-
 
 ### Screenshot Placeholder
 ```
-<img width="1912" height="898" alt="6e505a3f-1354-4c4e-a488-80065197b435" src="https://github.com/user-attachments/assets/8db7f76f-2886-4682-9aa7-0621993ee3b8" />
+<img width="952" height="810" alt="image" src="https://github.com/user-attachments/assets/7034c23a-da4f-4a2a-be77-03e25f680169" />
+<img width="947" height="706" alt="image" src="https://github.com/user-attachments/assets/a16fc58c-ab83-4449-a724-2b3ea9d4bce0" />
+
 
 ```
 
